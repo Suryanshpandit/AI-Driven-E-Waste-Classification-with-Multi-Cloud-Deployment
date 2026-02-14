@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Datasets (large files)
+E-waste dataset/
+DATASET/
+
+# Model weights (optional)
+outputs/*.pt
+
+# Editor settings
+.vscode/
